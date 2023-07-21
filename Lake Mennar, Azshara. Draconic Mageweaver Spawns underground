@@ -1,0 +1,8 @@
+The Draconic Mageweaver that spawns at 40.2 85.2 spawns under the ground, can be targeted and, if LoS'ed, crawls back out.
+
+IDs of affected creatures, items, quests or spells with a link to the relevant page:
+
+NPC: https://database.turtle-wow.org/?npc=6131
+
+Expected behavior. Describe how it should work:
+Should probably check the Y axis, the spawn point is very close to where a tree intersects with a Column.
